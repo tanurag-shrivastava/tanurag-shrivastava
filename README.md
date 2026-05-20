@@ -1,194 +1,251 @@
-<!-- ========================= -->
-<!--        HEADER BANNER      -->
-<!-- ========================= -->
+<!-- ===================================================== -->
+<!--                  PREMIUM GITHUB README                -->
+<!-- ===================================================== -->
 
-<h1 align="center">Hi 👋, I'm Tanurag Shrivastava</h1>
-<h3 align="center">Machine Learning Engineer • NLP & LLM Engineer • Full-Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+Products+%7C+LLMs+%7C+RAG+Systems;Full-Stack+Developer+%7C+React+%7C+Next.js+%7C+Node.js;Machine+Learning+Engineer+%7C+Computer+Vision+%7C+NLP;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Tanurag%20Shrivastava&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=50&desc=Machine%20Learning%20Engineer%20•%20NLP%20Engineer%20•%20Full-Stack%20Developer&descAlign=50&descAlignY=60" width="100%"/>
+
+</div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b8d-4fdf-8f5c-3f8b6d3f1f06.gif">
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Machine+Learning+Engineer;Building+AI+Products+with+LLMs+and+RAG;Full-Stack+Developer+%7C+React+%7C+Next.js;Open+Source+%2B+Problem+Solving+Enthusiast;Always+Learning+Something+New+🚀" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b8d-4fdf-8f5c-3f8b6d3f1f06.gif" width="700"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🌌 Turning Ideas into Intelligent Systems
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr border="none">
+
+<td width="50%" align="left">
+
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE Student at **BML Munjal University**
-- 🤖 Passionate about **Machine Learning, LLMs, NLP, and Full-Stack Development**
-- 🧠 Built projects involving **RAG, QLoRA, TinyLlama, YOLOv8, FAISS, and AI Systems**
-- 💻 Strong in **React.js, Next.js, TypeScript, Node.js, PostgreSQL, MongoDB**
-- 🔥 Love building scalable and impactful AI-powered products
+- 🤖 Passionate about **Machine Learning, NLP, LLMs & AI Systems**
+- 🧠 Building projects with **RAG, QLoRA, TinyLlama & YOLOv8**
+- 💻 Strong in **React.js, Next.js, TypeScript & Node.js**
+- 🔥 Love creating scalable and impactful products
+- 🏆 Solved **1500+ DSA Problems**
 - 🌱 Currently exploring:
-  - Advanced LLM Fine-Tuning
   - AI Agents
   - System Design
-  - Scalable ML Systems
+  - Advanced Fine-Tuning
+  - Scalable ML Infrastructure
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%" />
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
+
 <a href="https://www.linkedin.com/in/tanurag-shrivastava/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/TanuragShrivastava" target="_blank">
+<a href="https://github.com/tanurag-shrivastava" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/" target="_blank">
+<a href="https://leetcode.com/u/tanurag/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
 </a>
 
-<a href="https://codeforces.com/" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
-</a>
-</p>
+
+
+</div>
 
 ---
 
 # 💻 Tech Stack
 
 ## 🚀 Languages
-<p align="left">
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,cpp,js,ts" />
-</p>
+
+</div>
+
+---
 
 ## 🌐 Frontend & Backend
-<p align="left">
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,html,css" />
-</p>
+
+</div>
+
+---
 
 ## 🛢️ Databases & ORM
-<p align="left">
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma" />
-</p>
+
+</div>
+
+---
 
 ## 🤖 AI / ML / NLP
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
 
-<p align="left">
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+<br/>
+<br/>
+
 <img src="https://img.shields.io/badge/HuggingFace-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/QLoRA-7B61FF?style=for-the-badge"/>
-</p>
+
+</div>
+
+---
 
 ## ⚙️ Tools & Platforms
-<p align="left">
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode" />
-</p>
+
+</div>
 
 ---
 
 # 🧠 Featured Projects
 
 ## 🫀 ECG Analyzer & Clinical Explanation System
+
 > **PyTorch • TinyLlama • QLoRA • PEFT • FAISS • RAG**
 
-- Built a hybrid **CNN-BiLSTM** model on **87K+ ECG samples**
+- Built hybrid CNN-BiLSTM model on **87K+ ECG samples**
 - Achieved **97.2% test accuracy**
-- Designed **4 LLM pipelines** including RAG & QLoRA fine-tuning
-- Reduced hallucination using **FAISS + sentence-transformers**
-- Deployed interactive **Gradio-based AI system**
+- Designed multiple LLM pipelines with RAG & QLoRA
+- Reduced hallucination using FAISS retrieval pipeline
+- Deployed interactive Gradio-based AI system
 
 ---
 
 ## 🎓 PixelLearn — AI Coding Education Platform
+
 > **Next.js 16 • React 19 • TypeScript • LLaMA 3.3-70B**
 
-- Integrated **Groq API + LLaMA 3.3-70B**
-- Built AI tools:
-  - Resume Analyzer
-  - Career Roadmap Generator
-  - AI Chatbot
-- Developed browser-based multi-language code execution platform
-- Built custom SVG flowchart generation engine
+- Integrated LLaMA 3.3-70B using Groq API
+- Built Resume Analyzer & AI Career Tools
+- Developed browser-native code execution engine
 - Added gamification system with streaks & badges
 
 ---
 
 ## 🌾 Krishi Sahayak — AI Crop Health Detection
+
 > **TensorFlow • YOLOv8 • OpenCV • Deep Learning**
 
-- Trained CNN model on **3000+ crop images**
-- Achieved **94% disease classification accuracy**
-- Implemented real-time pest detection using YOLOv8
-- Built dual-model pipeline for actionable diagnostics
+- Trained CNN on **3000+ crop images**
+- Achieved **94% classification accuracy**
+- Implemented real-time pest detection
+- Built actionable AI diagnostics system
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+# 📊 GitHub Activity
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanurag-shrivastava&theme=tokyonight" width="100%" />
+
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+<div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=tanurag-shrivastava&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
 ---
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 
 # 🧩 LeetCode Stats
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap"/>
-</p>
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/tanurag?theme=dark&font=Nunito&ext=heatmap"/>
+
+</div>
 
 ---
 
 # 💼 Experience
 
-### 🚀 Careerwill Information Center
-**Web Developer & Manual Tester**  
-_May 2025 – Jul 2025_
+## 🚀 Careerwill Information Center
+
+### Web Developer & Manual Tester  
+📅 May 2025 – Jul 2025
 
 - Developed optimized React.js + Tailwind UI
-- Built MongoDB-based chatbot API & admin dashboard
+- Built chatbot API & admin dashboard
 - Reduced page load time by **30%**
 - Performed testing across **50+ test cases**
 
 ---
 
-### 💻 ICOESS Solutions
-**Frontend Developer**  
-_Dec 2024 – Jan 2025_
+## 💻 ICOESS Solutions
+
+### Frontend Developer  
+📅 Dec 2024 – Jan 2025
 
 - Led UI/UX design and frontend development
-- Worked with HTML, CSS, JavaScript, Node.js
+- Worked with HTML, CSS, JavaScript & Node.js
 - Delivered project ahead of schedule
 
 ---
 
 # 🏅 Achievements
 
-- 🧠 Solved **25 questions**
-- 🎖️ Scholarship Recipient — **Medhavi Chhatra Protsahan Yojana**
-- 🏕️ President — **Adventure Club, BMU**
+- 🎖️ Scholarship Recipient — Medhavi Chhatra Protsahan Yojana
+- 🏕️ President — Adventure Club, BMU
 - 📜 Certified in:
   - AI Tools & ChatGPT Workshop
   - Nation Building Case Study Competition
@@ -204,3 +261,24 @@ while(alive) {
    code();
    repeat();
 }
+```
+
+---
+
+<div align="center">
+
+## ✨ “Building intelligent systems that create real-world impact.” ✨
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=tanurag-shrivastava&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+</div>
+
+<!-- ===================================================== -->
+<!--                    END OF README                      -->
+<!-- ===================================================== -->
