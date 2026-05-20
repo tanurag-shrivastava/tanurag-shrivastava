@@ -46,7 +46,6 @@
 - 🧠 Building projects with **RAG, QLoRA, TinyLlama & YOLOv8**
 - 💻 Strong in **React.js, Next.js, TypeScript & Node.js**
 - 🔥 Love creating scalable and impactful products
-- 🏆 Solved **1500+ DSA Problems**
 - 🌱 Currently exploring:
   - AI Agents
   - System Design
