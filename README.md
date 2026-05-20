@@ -11,8 +11,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8b8d-4fdf-8f5c-3f8b6d3f1f06.gif">
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE Student at **BML Munjal University**
@@ -20,7 +19,6 @@
 - 🧠 Built projects involving **RAG, QLoRA, TinyLlama, YOLOv8, FAISS, and AI Systems**
 - 💻 Strong in **React.js, Next.js, TypeScript, Node.js, PostgreSQL, MongoDB**
 - 🔥 Love building scalable and impactful AI-powered products
-- 🏆 Solved **1500+ DSA problems**
 - 🌱 Currently exploring:
   - Advanced LLM Fine-Tuning
   - AI Agents
